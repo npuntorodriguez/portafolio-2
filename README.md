@@ -1,0 +1,1 @@
+En este rpoyecto se refleja lo aprendido en el bootcamp de Skillnest en los inicios, se usa html,bootstrap,jquery,css , está en la rama master , tiene reseña de mi persona intereses, habilidades y contacto
